@@ -27,6 +27,17 @@ body {
     font-weight: 400;
 }
 
+.text-desc{
+    font-size: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    letter-spacing: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 10%;
+    color: #ffffff;
+}
+
 .img {
     height: 250px;
     width: 250px;
